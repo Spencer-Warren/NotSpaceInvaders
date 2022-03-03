@@ -5,7 +5,12 @@
 > Written in java using the java swing package
 
 ## How to use
->There are compiled versions of the game in the releases
+>There are compiled versions of the game in the releases<br>
+>You can run the jar file using this command:
+``` 
+java -jar SpaceInvaders.jar 
+```
+
 
 ## Source Code
 >All the source code can be found here:<br>
