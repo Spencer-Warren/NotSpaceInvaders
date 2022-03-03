@@ -12,4 +12,11 @@
 >[Source](SpaceInvaders/lib/src/main/java/)
 
 ## Screenshots
-
+<details><summary>Shooting an invader</summary>
+  
+  ![Shooting alieans](Screenshots/shoot.png)
+</details>
+<details><summary>Game Over screen</summary>
+  
+  ![Gamne Over](Screenshots/gameover.png)
+</details>
