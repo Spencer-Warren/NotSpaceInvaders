@@ -25,3 +25,6 @@ java -jar SpaceInvaders.jar
   
   ![Gamne Over](Screenshots/gameover.png)
 </details>
+## Video
+>A video demo of the game
+[![Demo Video](http://img.youtube.com/vi/f2Qg2SO5gaM/0.jpg)](http://www.youtube.com/watch?v=f2Qg2SO5gaM "Video Title")
